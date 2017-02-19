@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<StructureData>
+	<Category id="" name="Assembly Array">
+		<Structure id="" name="">
+			<FittingUsage powergrid="" cpu="" />
+		</Structure>
+		
+		  <CatagoryName>Assembly Array</CatagoryName>
+  <ItemID>24656</ItemID>
+  <ItemName>X-Large Ship Assembly Array</ItemName>
+  <CPU>1000</CPU>
+  <PG>300000</PG>
+  <CatagoryName>Assembly Array</CatagoryName>
+  <ItemID>24657</ItemID>
+  <ItemName>Advanced Large Ship Assembly Array</ItemName>
+  <CPU>1000</CPU>
+  <PG>300000</PG>
+  <CatagoryName>Assembly Array</CatagoryName>
+  <ItemID>24655</ItemID>
+  <ItemName>Advanced Medium Ship Assembly Array</ItemName>
+  <CPU>500</CPU>
+  <PG>200000</PG>
+  <CatagoryName>Assembly Array</CatagoryName>
+  <ItemID>24653</ItemID>
+  <ItemName>Advanced Small Ship Assembly Array</ItemName>
+  <CPU>250</CPU>
+  <PG>100000</PG>
+  <CatagoryName>Assembly Array</CatagoryName>
+  <ItemID>24658</ItemID>
+  <ItemName>Ammunition Assembly Array</ItemName>
+  <CPU>150</CPU>
+  <PG>50000</PG>
+  <CatagoryName>Assembly Array</CatagoryName>
+  <ItemID>24575</ItemID>
+  <ItemName>Capital Ship Assembly Array</ItemName>
+  <CPU>2000</CPU>
+  <PG>1000000</PG>
+  <CatagoryName>Assembly Array</CatagoryName>
+  <ItemID>24660</ItemID>
+  <ItemName>Component Assembly Array</ItemName>
+  <CPU>150</CPU>
+  <PG>50000</PG>
+  <CatagoryName>Assembly Array</CatagoryName>
+  <ItemID>24659</ItemID>
+  <ItemName>Drone Assembly Array</ItemName>
+  <CPU>150</CPU>
+  <PG>50000</PG>
+  <CatagoryName>Assembly Array</CatagoryName>
+  <ItemID>13780</ItemID>
+  <ItemName>Efficient Equipment Assembly Array</ItemName>
+  <CPU>150</CPU>
+  <PG>90000</PG>
+  <CatagoryName>Assembly Array</CatagoryName>
+  <ItemID>24656</ItemID>
+  <ItemName>Large Ship Assembly Array</ItemName>
+  <CPU>1000</CPU>
+  <PG>300000</PG>
+  <CatagoryName>Assembly Array</CatagoryName>
+  <ItemID>24654</ItemID>
+  <ItemName>Medium Ship Assembly Array</ItemName>
+  <CPU>500</CPU>
+  <PG>200000</PG>
+  <CatagoryName>Assembly Array</CatagoryName>
+  <ItemID>16220</ItemID>
+  <ItemName>Rapid Equipment Assembly Array</ItemName>
+  <CPU>200</CPU>
+  <PG>110000</PG>
+  <CatagoryName>Assembly Array</CatagoryName>
+  <ItemID>24574</ItemID>
+  <ItemName>Small Ship Assembly Array</ItemName>
+  <CPU>250</CPU>
+  <PG>100000</PG>
+  <CatagoryName>Assembly Array</CatagoryName>
+  <ItemID>30389</ItemID>
+  <ItemName>Subsystem Assembly Array</ItemName>
+  <CPU>500</CPU>
+  <PG>200000</PG>
+	</Category>
+	<Category id="" name="Corporate Hangar Array">
+		<Structure id="17621" name="Corporate Hangar Array">
+			<FittingUsage powergrid="100000" cpu="150" />
+		</Structure>
+	</Category>
+	<Category id="" name="Cynosural Generator Array">
+		<Structure id="27673" name="Cynosural Generator Array">
+			<FittingUsage powergrid="375000" cpu="150" />
+		</Structure>
+	</Category>
+	<Category id="" name="Cynosural System Jammer">
+		<Structure id="27674" name="Cynosural System Jammer">
+			<FittingUsage powergrid="750000" cpu="0" />
+		</Structure>
+	</Category>
+	<Category id="" name="Electronic Warfare Battery">
+		<Structure id="27576" name="Dread Guristas Ion Field Projection Battery">
+			<FittingUsage powergrid="20000" cpu="50" />
+		</Structure>
+		<Structure id="27579" name="Dread Guristas Phase Inversion Battery">
+			<FittingUsage powergrid="20000" cpu="50" />
+		</Structure>
+		<Structure id="27582" name="Dread Guristas Spatial Destabilization Battery">
+			<FittingUsage powergrid="20000" cpu="50" />
+		</Structure>
+		<Structure id="27585" name="Dread Guristas White Noise Generation Battery">
+			<FittingUsage powergrid="20000" cpu="50" />
+		</Structure>
+		<Structure id="27574" name="Guristas Ion Field Projection Battery">
+			<FittingUsage powergrid="22500" cpu="50" />
+		</Structure>
+		<Structure id="27577" name="Guristas Phase Inversion Battery">
+			<FittingUsage powergrid="22500" cpu="50" />
+		</Structure>
+		<Structure id="27580" name="Guristas Spatial Destabilization Battery">
+			<FittingUsage powergrid="22500" cpu="50" />
+		</Structure>
+		<Structure id="27583" name="Guristas White Noise Generation Battery">
+			<FittingUsage powergrid="22500" cpu="50" />
+		</Structure>
+		
+		  <CatagoryName>Electronic Warfare Battery</CatagoryName>
+  <ItemID>17177</ItemID>
+  <ItemName>White Noise Generation Battery</ItemName>
+  <CPU>50</CPU>
+  <PG>25000</PG>
+  <CatagoryName>Electronic Warfare Battery</CatagoryName>
+  <ItemID>17174</ItemID>
+  <ItemName>Ion Field Projection Battery</ItemName>
+  <CPU>50</CPU>
+  <PG>25000</PG>
+  <CatagoryName>Electronic Warfare Battery</CatagoryName>
+  <ItemID>17175</ItemID>
+  <ItemName>Phase Inversion Battery</ItemName>
+  <CPU>50</CPU>
+  <PG>25000</PG>
+  <CatagoryName>Electronic Warfare Battery</CatagoryName>
+  <ItemID>17176</ItemID>
+  <ItemName>Spatial Destabilization Battery</ItemName>
+  <CPU>50</CPU>
+  <PG>25000</PG>
+	</Category>
+	<Category id="" name="Energy Neutralizing Battery">
+		<Structure id="27857" name="Blood Energy Neutralizing Battery">
+			<FittingUsage powergrid="350000" cpu="25" />
+		</Structure>
+		<Structure id="27858" name="Dark Blood Energy Neutralizing Battery">
+			<FittingUsage powergrid="350000" cpu="25" />
+		</Structure>
+		<Structure id="27855" name="Sansha Energy Neutralizing Battery">
+			<FittingUsage powergrid="350000" cpu="25" />
+		</Structure>
+		<Structure id="27856" name="True Sansha Energy Neutralizing Battery">
+			<FittingUsage powergrid="350000" cpu="25" />
+		</Structure>
+		<Structure id="27672" name="Energy Neutralizing Battery">
+			<FittingUsage powergrid="350000" cpu="25" />
+		</Structure>
+	</Category>
+	<Category id="" name="Jump Portal Array">
+		<Structure id="27897" name="Jump Bridge">
+			<FittingUsage powergrid="750000" cpu="4000" />
+		</Structure>
+	</Category>
+	<Category id="" name="Mobile Hybrid Sentry">
+	
+	
+	  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>17402</ItemID>
+  <ItemName>Large Blaster Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>225000</PG>
+  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>16692</ItemID>
+  <ItemName>Large Railgun Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>360000</PG>
+  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>17403</ItemID>
+  <ItemName>Medium Blaster Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>112500</PG>
+  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>16691</ItemID>
+  <ItemName>Medium Railgun Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>180000</PG>
+  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>17404</ItemID>
+  <ItemName>Small Blaster Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>56250</PG>
+  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>16690</ItemID>
+  <ItemName>Small Railgun Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>90000</PG>
+	  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>27542</ItemID>
+  <ItemName>Serpentis Large Blaster Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>202500</PG>
+  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>27545</ItemID>
+  <ItemName>Serpentis Large Railgun Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>324000</PG>
+  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>27613</ItemID>
+  <ItemName>Serpentis Medium Blaster Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>101250</PG>
+  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>27616</ItemID>
+  <ItemName>Serpentis Medium Railgun Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>162000</PG>
+  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>27619</ItemID>
+  <ItemName>Serpentis Small Blaster Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>50625</PG>
+  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>27622</ItemID>
+  <ItemName>Serpentis Small Railgun Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>81000</PG>
+  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>27544</ItemID>
+  <ItemName>Shadow Large Blaster Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>180000</PG>
+  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>27547</ItemID>
+  <ItemName>Shadow Large Railgun Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>288000</PG>
+  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>27615</ItemID>
+  <ItemName>Shadow Medium Blaster Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>90000</PG>
+  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>27618</ItemID>
+  <ItemName>Shadow Medium Railgun Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>144000</PG>
+  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>27621</ItemID>
+  <ItemName>Shadow Small Blaster Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>45000</PG>
+  <CatagoryName>Mobile Hybrid Sentry</CatagoryName>
+  <ItemID>27624</ItemID>
+  <ItemName>Shadow Small Railgun Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>72000</PG>
+	</Category>
+	<Category id="" name="Mobile Laboratory">
+		<Structure id="25305" name="Drug Lab">
+			<FittingUsage powergrid="50000" cpu="150" />
+		</Structure>
+		<Structure id="16216" name="Mobile Laboratory">
+			<FittingUsage powergrid="100000" cpu="500" />
+		</Structure>
+		<Structure id="28351" name="Advanced Mobile Laboratory">
+			<FittingUsage powergrid="120000" cpu="600" />
+		</Structure>
+		<Structure id="24567" name="Experimental Laboratory">
+			<FittingUsage powergrid="100000" cpu="500" />
+		</Structure>
+	</Category>
+	<Category id="" name="Mobile Laser Sentry">
+	
+	
+	  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27551</ItemID>
+  <ItemName>Blood Large Beam Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>405000</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27548</ItemID>
+  <ItemName>Blood Large Pulse Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>283500</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27625</ItemID>
+  <ItemName>Blood Medium Beam Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>202500</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27628</ItemID>
+  <ItemName>Blood Medium Pulse Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>141750</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27631</ItemID>
+  <ItemName>Blood Small Beam Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>101250</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27634</ItemID>
+  <ItemName>Blood Small Pulse Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>70875</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27553</ItemID>
+  <ItemName>Dark Blood Large Beam Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>360000</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27550</ItemID>
+  <ItemName>Dark Blood Large Pulse Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>252000</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27627</ItemID>
+  <ItemName>Dark Blood Medium Beam Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>180000</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27630</ItemID>
+  <ItemName>Dark Blood Medium Pulse Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>126000</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27633</ItemID>
+  <ItemName>Dark Blood Small Beam Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>90000</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27636</ItemID>
+  <ItemName>Dark Blood Small Pulse Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>63000</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27766</ItemID>
+  <ItemName>Sansha Large Beam Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>405000</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27767</ItemID>
+  <ItemName>Sansha Large Pulse Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>283500</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27768</ItemID>
+  <ItemName>Sansha Medium Beam Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>202500</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27769</ItemID>
+  <ItemName>Sansha Medium Pulse Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>141750</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27770</ItemID>
+  <ItemName>Sansha Small Beam Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>101250</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27771</ItemID>
+  <ItemName>Sansha Small Pulse Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>70875</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27772</ItemID>
+  <ItemName>True Sansha Large Beam Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>360000</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27773</ItemID>
+  <ItemName>True Sansha Large Pulse Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>252000</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27774</ItemID>
+  <ItemName>True Sansha Medium Beam Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>180000</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27775</ItemID>
+  <ItemName>True Sansha Medium Pulse Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>126000</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27776</ItemID>
+  <ItemName>True Sansha Small Beam Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>90000</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>27777</ItemID>
+  <ItemName>True Sansha Small Pulse Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>63000</PG>
+    <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>16694</ItemID>
+  <ItemName>Large Beam Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>450000</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>17406</ItemID>
+  <ItemName>Large Pulse Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>315000</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>17168</ItemID>
+  <ItemName>Medium Beam Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>225000</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>17407</ItemID>
+  <ItemName>Medium Pulse Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>157500</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>17167</ItemID>
+  <ItemName>Small Beam Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>112500</PG>
+  <CatagoryName>Mobile Laser Sentry</CatagoryName>
+  <ItemID>17408</ItemID>
+  <ItemName>Small Pulse Laser Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>78750</PG>
+	</Category>
+	<Category id="" name="Mobile Missile Sentry">
+	
+	  <CatagoryName>Mobile Missile Sentry</CatagoryName>
+  <ItemID>17773</ItemID>
+  <ItemName>Citadel Torpedo Battery</ItemName>
+  <CPU>160</CPU>
+  <PG>160000</PG>
+  <CatagoryName>Mobile Missile Sentry</CatagoryName>
+  <ItemID>16696</ItemID>
+  <ItemName>Cruise Missile Battery</ItemName>
+  <CPU>40</CPU>
+  <PG>40000</PG>
+  <CatagoryName>Mobile Missile Sentry</CatagoryName>
+  <ItemID>16697</ItemID>
+  <ItemName>Torpedo Battery</ItemName>
+  <CPU>80</CPU>
+  <PG>80000</PG>
+	<CatagoryName>Mobile Missile Sentry</CatagoryName>
+  <ItemID>27562</ItemID>
+  <ItemName>Dread Guristas Citadel Torpedo Battery</ItemName>
+  <CPU>160</CPU>
+  <PG>136000</PG>
+  <CatagoryName>Mobile Missile Sentry</CatagoryName>
+  <ItemID>27640</ItemID>
+  <ItemName>Dread Guristas Cruise Missile Battery</ItemName>
+  <CPU>40</CPU>
+  <PG>32000</PG>
+  <CatagoryName>Mobile Missile Sentry</CatagoryName>
+  <ItemID>27643</ItemID>
+  <ItemName>Dread Guristas Torpedo Battery</ItemName>
+  <CPU>80</CPU>
+  <PG>64000</PG>
+  <CatagoryName>Mobile Missile Sentry</CatagoryName>
+  <ItemID>27638</ItemID>
+  <ItemName>Guristas Cruise Missile Battery</ItemName>
+  <CPU>40</CPU>
+  <PG>36000</PG>
+  <CatagoryName>Mobile Missile Sentry</CatagoryName>
+  <ItemID>27560</ItemID>
+  <ItemName>Guristas Citadel Torpedo Battery</ItemName>
+  <CPU>160</CPU>
+  <PG>144000</PG>
+  <CatagoryName>Mobile Missile Sentry</CatagoryName>
+  <ItemID>27641</ItemID>
+  <ItemName>Guristas Torpedo Battery</ItemName>
+  <CPU>80</CPU>
+  <PG>72000</PG>
+	</Category>
+	<Category id="" name="Mobile Projectile Sentry">
+	
+	  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>16689</ItemID>
+  <ItemName>Large Artillery Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>405000</PG>
+  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>17770</ItemID>
+  <ItemName>Large AutoCannon Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>270000</PG>
+  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>16688</ItemID>
+  <ItemName>Medium Artillery Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>202500</PG>
+  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>17771</ItemID>
+  <ItemName>Medium AutoCannon Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>135000</PG>
+  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>16631</ItemID>
+  <ItemName>Small Artillery Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>101250</PG>
+  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>17772</ItemID>
+  <ItemName>Small AutoCannon Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>67500</PG>
+	  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>27557</ItemID>
+  <ItemName>Angel Large Artillery Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>364500</PG>
+  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>27554</ItemID>
+  <ItemName>Angel Large AutoCannon Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>243000</PG>
+  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>27644</ItemID>
+  <ItemName>Angel Medium Artillery Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>182250</PG>
+  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>27647</ItemID>
+  <ItemName>Angel Medium AutoCannon Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>121500</PG>
+  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>27650</ItemID>
+  <ItemName>Angel Small Artillery Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>91125</PG>
+  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>27653</ItemID>
+  <ItemName>Angel Small AutoCannon Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>60750</PG>
+  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>27559</ItemID>
+  <ItemName>Domination Large Artillery Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>324000</PG>
+  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>27556</ItemID>
+  <ItemName>Domination Large AutoCannon Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>216000</PG>
+  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>27646</ItemID>
+  <ItemName>Domination Medium Artillery Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>162000</PG>
+  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>27649</ItemID>
+  <ItemName>Domination Medium AutoCannon Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>108000</PG>
+  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>27652</ItemID>
+  <ItemName>Domination Small Artillery Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>81000</PG>
+  <CatagoryName>Mobile Projectile Sentry</CatagoryName>
+  <ItemID>27655</ItemID>
+  <ItemName>Domination Small AutoCannon Battery</ItemName>
+  <CPU>0</CPU>
+  <PG>54000</PG>
+	</Category>
+	<Category id="" name="Mobile Reactor">
+	
+	  <CatagoryName>Mobile Reactor</CatagoryName>
+  <ItemID>24684</ItemID>
+  <ItemName>Biochemical Reactor Array</ItemName>
+  <CPU>1250</CPU>
+  <PG>250000</PG>
+  <CatagoryName>Mobile Reactor</CatagoryName>
+  <ItemID>22634</ItemID>
+  <ItemName>Medium Biochemical Reactor Array</ItemName>
+  <CPU>750</CPU>
+  <PG>250000</PG>
+  <CatagoryName>Mobile Reactor</CatagoryName>
+  <ItemID>20175</ItemID>
+  <ItemName>Simple Reactor Array</ItemName>
+  <CPU>1500</CPU>
+  <PG>125000</PG>
+  <CatagoryName>Mobile Reactor</CatagoryName>
+  <ItemID>16869</ItemID>
+  <ItemName>Complex Reactor Array</ItemName>
+  <CPU>3000</CPU>
+  <PG>250000</PG>
+  <CatagoryName>Mobile Reactor</CatagoryName>
+  <ItemID>30656</ItemID>
+  <ItemName>Polymer Reactor Array</ItemName>
+  <CPU>1500</CPU>
+  <PG>125000</PG>
+	</Category>
+	<Category id="" name="Moon Mining">
+		<Structure id="16221" name="Moon Harvesting Array">
+			<FittingUsage powergrid="10000" cpu="500" />
+		</Structure>
+		<Structure id="17170" name="Moon Harvesting Array II">
+			<FittingUsage powergrid="20000" cpu="1000" />
+		</Structure>
+	</Category>
+	<Category id="" name="Refining Array">
+		<Structure id="19470" name="Intensive Refining Array">
+			<FittingUsage powergrid="750000" cpu="4000" />
+		</Structure>
+		<Structure id="12239" name="Medium Intensive Refining Array">
+			<FittingUsage powergrid="375000" cpu="2000" />
+		</Structure>
+		<Structure id="12238" name="Refining Array">
+			<FittingUsage powergrid="100000" cpu="700" />
+		</Structure>
+	</Category>
+	<Category id="" name="Scanner Array">
+		<Structure id="27675" name="System Scanning Array">
+			<FittingUsage powergrid="25000" cpu="25" />
+		</Structure>
+	</Category>
+	<Category id="" name="Sensor Dampening Battery">
+		<Structure id="27778" name="Serpentis Sensor Dampening Battery">
+			<FittingUsage powergrid="12500" cpu="25" />
+		</Structure>
+		<Structure id="27779" name="Shadow Sensor Dampening Battery">
+			<FittingUsage powergrid="12500" cpu="25" />
+		</Structure>
+		
+		<CatagoryName>Sensor Dampening Battery</CatagoryName>
+  <ItemID>17180</ItemID>
+  <ItemName>Sensor Dampening Battery</ItemName>
+  <CPU>25</CPU>
+  <PG>12500</PG>
+	</Category>
+	<Category id="" name="Shield Hardening Array">
+		<Structure id="17184" name="Ballistic Deflection Array">
+			<FittingUsage powergrid="150000" cpu="250" />
+		</Structure>
+		<Structure id="17185" name="Explosion Dampening Array">
+			<FittingUsage powergrid="150000" cpu="250" />
+		</Structure>
+		<Structure id="17186" name="Heat Dissipation Array">
+			<FittingUsage powergrid="150000" cpu="250" />
+		</Structure>
+		<Structure id="17187" name="Photon Scattering Array">
+			<FittingUsage powergrid="150000" cpu="250" />
+		</Structure>
+	</Category>
+	<Category id="" name="Ship Maintenance Array">
+		<Structure id="24646" name="Capital Ship Maintenance Array">
+			<FittingUsage powergrid="1000000" cpu="0" />
+		</Structure>
+		<Structure id="12237" name="Ship Maintenance Array">
+			<FittingUsage powergrid="250000" cpu="0" />
+		</Structure>
+	</Category>
+	<Category id="" name="Silo">
+		
+		
+		  <CatagoryName>Silo</CatagoryName>
+  <ItemID>25270</ItemID>
+  <ItemName>Biochemical Silo</ItemName>
+  <CPU>250</CPU>
+  <PG>50000</PG>
+  <CatagoryName>Silo</CatagoryName>
+  <ItemID>25271</ItemID>
+  <ItemName>Catalyst Silo</ItemName>
+  <CPU>250</CPU>
+  <PG>50000</PG>
+  <CatagoryName>Silo</CatagoryName>
+  <ItemID>17982</ItemID>
+  <ItemName>Coupling Array</ItemName>
+  <CPU>155</CPU>
+  <PG>10000</PG>
+  <CatagoryName>Silo</CatagoryName>
+  <ItemID>25821</ItemID>
+  <ItemName>General Storage</ItemName>
+  <CPU>250</CPU>
+  <PG>50000</PG>
+  <CatagoryName>Silo</CatagoryName>
+  <ItemID>25280</ItemID>
+  <ItemName>Hazardous Chemical Silo</ItemName>
+  <CPU>250</CPU>
+  <PG>50000</PG>
+  <CatagoryName>Silo</CatagoryName>
+  <ItemID>30655</ItemID>
+  <ItemName>Hybrid Polymer Silo</ItemName>
+  <CPU>250</CPU>
+  <PG>50000</PG>
+  <CatagoryName>Silo</CatagoryName>
+  <ItemID>14343</ItemID>
+  <ItemName>Silo</ItemName>
+  <CPU>500</CPU>
+  <PG>50000</PG>
+	</Category>
+	<Category id="" name="Stasis Webification Battery">
+		<Structure id="27570" name="Angel Stasis Webification Battery">
+			<FittingUsage powergrid="45000" cpu="25" />
+		</Structure>
+		<Structure id="27573" name="Domination Stasis Webification Battery">
+			<FittingUsage powergrid="40000" cpu="25" />
+		</Structure>
+		<Structure id="17178" name="Stasis Webification Battery">
+			<FittingUsage powergrid="50000" cpu="25" />
+		</Structure>
+	</Category>
+	<Category id="" name="Stealth Emitter Array">
+		<Structure id="17899" name="Stealth Emitter Array">
+			<FittingUsage powergrid="500" cpu="0" />
+		</Structure>
+	</Category>
+	<Category id="" name="Tracking Array">
+		
+		
+		<CatagoryName>Tracking Array</CatagoryName>
+  <ItemID>17701</ItemID>
+  <ItemName>Tracking Array</ItemName>
+  <CPU>150</CPU>
+  <PG>25000</PG>
+	</Category>
+	<Category id="" name="Warp Scrambling Battery">
+		<Structure id="27563" name="Serpentis Warp Disruption Battery">
+			<FittingUsage powergrid="90000" cpu="50" />
+		</Structure>
+		<Structure id="27567" name="Serpentis Warp Scrambling Battery">
+			<FittingUsage powergrid="25000" cpu="25" />
+		</Structure>
+		<Structure id="27565" name="Shadow Warp Disruption Battery">
+			<FittingUsage powergrid="80000" cpu="50" />
+		</Structure>
+		<Structure id="27569" name="Shadow Warp Scrambling Battery">
+			<FittingUsage powergrid="25000" cpu="25" />
+		</Structure>
+		<Structure id="17181" name="Warp Disruption Battery">
+			<FittingUsage powergrid="100000" cpu="50" />
+		</Structure>
+		<Structure id="17182" name="Warp Scrambling Battery">
+			<FittingUsage powergrid="25000" cpu="25" />
+		</Structure>
+	</Category>	
+</StructureData>
