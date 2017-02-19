@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <StructureData>
-	<Category id="" name="Assembly Array">
-		<Structure id="" name="">
-			<FittingUsage powergrid="" cpu="" />
-		</Structure>
-		
-		  <CatagoryName>Assembly Array</CatagoryName>
+  <Category id="" name="Assembly Array">
+    <Structure id="" name="">
+      <FittingUsage powergrid="" cpu="" />
+    </Structure>
+     <CatagoryName>Assembly Array</CatagoryName>
   <ItemID>24656</ItemID>
   <ItemName>X-Large Ship Assembly Array</ItemName>
   <CPU>1000</CPU>
